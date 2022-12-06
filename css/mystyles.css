@@ -1,0 +1,32 @@
+.common{
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: large;
+    text-align: left;
+}
+.header{
+    font-size: xx-large;
+    font-weight: bold;
+    text-align: center;
+}
+.category{
+    font-size: x-large;
+}
+.bullet{
+    margin-left: 5%;
+}
+.date{
+    position: static;
+    text-align: right;
+    margin-top: -3%;
+}
+.title{
+    font-weight: bold;
+}
+.place{
+    font-style: italic;
+}
+.background{
+    background-image: url(https://e0.pxfuel.com/wallpapers/1019/422/desktop-wallpaper-black-cat-iphone-black-cat-cartoon-thumbnail.jpg);
+}
+
